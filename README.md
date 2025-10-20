@@ -14,7 +14,7 @@ Awesome. Our idea is to bring the Meetup to new places. If you want to host and 
 
 ## Contact us
 
-* [David Dasenbrook](https://www.linkedin.com/in/daviddasenbrook/) 
 * [Christian Siebmanns](https://www.linkedin.com/in/christian-siebmanns/)
 * [Marius Stein](https://www.linkedin.com/in/marius-stein-it/)
+* [Sascha Di Bernardo](https://www.linkedin.com/in/sascha-di-bernardo/) 
 
